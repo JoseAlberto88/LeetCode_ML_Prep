@@ -20,11 +20,11 @@ Below is a snapshot of my progress, including total problems solved, acceptance 
 
 This visual evidence demonstrates my commitment to algorithmic problem‑solving and continuous improvement.
 
-📘 dynamic_programming/
-│── climbing_stairs.ipynb
-│── coin_change.ipynb
-│── house_robber.ipynb
-└── maximum_subarray.ipynb
+### 📘 dynamic_programming/
+    │── climbing_stairs.ipynb
+    │── coin_change.ipynb
+    │── house_robber.ipynb
+    └── maximum_subarray.ipynb
 
 🔤 embeddings/
 │── Find_all_anagrams_in_a_string.ipynb

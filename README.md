@@ -26,28 +26,28 @@ This visual evidence demonstrates my commitment to algorithmic problem‑solving
     │── house_robber.ipynb
     └── maximum_subarray.ipynb
 
-🔤 embeddings/
-│── Find_all_anagrams_in_a_string.ipynb
-│── Group_anagrams.ipynb
-│── Minimum_Window_Substring.ipynb
-│── Top_K_Frequent_Words.ipynb
-└── longest_substring_no_repeat.ipynb
+### 🔤 embeddings/
+    │── Find_all_anagrams_in_a_string.ipynb
+    |── Group_anagrams.ipynb
+    │── Minimum_Window_Substring.ipynb
+    │── Top_K_Frequent_Words.ipynb
+    └── longest_substring_no_repeat.ipynb
 
-🌐 graphs/
-│── Clone_graph.ipynb
-│── Course_Schedule.ipynb
-│── Number_of_Islands.ipynb
-└── Pacific_Atlantic_Water_Flow.ipynb
+### 🌐 graphs/
+    │── Clone_graph.ipynb
+    │── Course_Schedule.ipynb
+    │── Number_of_Islands.ipynb
+    └── Pacific_Atlantic_Water_Flow.ipynb
 
-📊 ranking/
-│── Sort_Characters_by_Frequency.ipynb
-│── Top_K_Frequent_elements.ipynb
-└── kth_largest_element.ipynb
+### 📊 ranking/
+    │── Sort_Characters_by_Frequency.ipynb
+    │── Top_K_Frequent_elements.ipynb
+    └── kth_largest_element.ipynb
 
-🌲 trees/
-│── binary_tree_level_order_traversal.ipynb
-│── invert_binary_tree.ipynb
-│── path_sum.ipynb
-└── symmetric_tree.ipynb
+### 🌲 trees/
+    │── binary_tree_level_order_traversal.ipynb
+    │── invert_binary_tree.ipynb
+    │── path_sum.ipynb
+    └── symmetric_tree.ipynb
 
 
